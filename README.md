@@ -1,4 +1,4 @@
-# Human_Activity_Recognition_Using_smartphone
+# HumanActivity_Recognition
 Using Boosting algorithm
 
 The dataset is one of the UCI datasets.
